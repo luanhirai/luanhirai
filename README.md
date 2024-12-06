@@ -4,7 +4,7 @@
 <br/><br/>
 🤙 Bem vindo à minha pagina do GitHub, Eu sou o Luan Hirai 🙆‍♂️ 
 <br/><br/>
-👨‍🎓 Estudando Sistemas de informação na FIPP - Unoeste
+👨‍🎓 Estudante de Sistemas de informação na FIPP - Unoeste
 <br/>
 <hr/>
 <div style="display: inline_block"><br/>
