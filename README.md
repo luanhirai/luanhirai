@@ -62,13 +62,4 @@
 
 ###
 
-<h3 align="left">🔥 Minhas estatísticas</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luanhirai&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br><br>
-</div>
-
-###
